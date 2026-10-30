@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/noeltamba/osu-Beatmap-Card-Generator-Discord-Bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-osu-beatmap-card-generator-discord-bot-dark.svg"><img src="assets/project-osu-beatmap-card-generator-discord-bot-light.svg" width="49%" alt="osu-Beatmap-Card-Generator-Discord-Bot"></picture></a>
+<a href="https://github.com/noeltamba/osu-Beatmap-Card-Generator-Discord-Bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-osu-beatmap-card-generator-discord-bot-dark.svg"><img src="assets/project-osu-beatmap-card-generator-discord-bot-light.svg" width="49%" alt="osu-Beatmap-Card-Generator-Discord-Bot"></picture></a>&nbsp;<a href="https://github.com/noeltamba/hoyomixGuesser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hoyomixguesser-dark.svg"><img src="assets/project-hoyomixguesser-light.svg" width="49%" alt="hoyomixGuesser"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

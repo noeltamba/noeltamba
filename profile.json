@@ -122,11 +122,8 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "pixel-garden",
-      "tiny-weather",
-      "echo-bot",
-      "dotfiles",
-      "osu-Beatmap-Card-Generator-Discord-Bot"
+      "osu-Beatmap-Card-Generator-Discord-Bot",
+      "hoyomixGuesser"
     ],
     "overrides": {},
     "empty": "No description yet.",
